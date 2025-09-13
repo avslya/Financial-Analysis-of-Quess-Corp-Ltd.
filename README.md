@@ -1,5 +1,4 @@
 # Financial-Analysis-of-Quess-Corp-Ltd.
-Done as part of partial fulfillment of FIN F315(Fall 25)
 📊 Quess Corp Ltd. Financial Analysis
 
 This repository contains a detailed financial analysis of Quess Corp Ltd., completed as part of the partial fulfillment of academic coursework.
